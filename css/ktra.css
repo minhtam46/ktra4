@@ -1,0 +1,39 @@
+.main {
+    background-color: rgb(252, 215, 252);
+    margin-left: -7px;
+    margin-top: 700px;
+    padding-top: 20px;
+    height: 330px;
+}
+.body_content {
+    font-size: 15px;
+    text-align: left;
+    width: 330px;
+    padding-left: 300px;
+}
+.end {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.button .button_color1 {
+    background-color: rgb(177, 10, 141);
+    border-radius: 15px;
+    width: 210px;
+    height: 30px;
+    border: none;
+}
+.button .button_color2 {
+    background-color: white;
+    border-radius: 15px;
+    width: 210px;
+    height: 30px;
+    border: none;
+}
+.button {
+    display: flex;
+    text-align: center;
+}
+.button .trai {
+    margin-left: 250px;
+}
